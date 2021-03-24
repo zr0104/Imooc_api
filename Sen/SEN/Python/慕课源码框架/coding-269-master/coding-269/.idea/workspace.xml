@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ded0551-9541-49f6-92f6-2998f912469f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../07 CRM律达通平台/p4.10.0/万邦需求分析表p4.10.0.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/.idea/seleniumTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-02_15_27_16result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-02_16_18_58result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-02_16_44_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-02_16_51_50result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-02_16_54_52result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_07_05result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_12_59result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_16_56result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_24_22result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_30_37result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_10_49_06result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_12_47_32result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_14_30_44result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../softback/seleniumTest/report/21-03-03_15_08_52result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coding-269-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/coding-269.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/test001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/read_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/register_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/register_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imooc_selenium/start_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/init_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumBBD/register_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/find_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/register_business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/data_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/first_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/first_ddt_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/keyword_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/run_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/unittest_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/unittest_case02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/LocalElement.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/casedata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/keyword.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handle/register_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywordselenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywordselenium/actionMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-06-30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-07-22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-07-23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-07-24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-07-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs/2018-07-27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/user_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/register_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/first_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/first_case1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/test_login_email_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/test_login_username_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test - 副本 (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test - 副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tttt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/ShowapiRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/excel_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/get_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/read_ini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ping/医疗证明/x线报告.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ping/医疗证明/交通事故认定书.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ping/医疗证明/手指01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ping/医疗证明/手指骨折01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../code/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../Users/KXYL/AppData/Roaming/360se6/User Data/Default/History Provider Cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../Users/KXYL/AppData/Roaming/360se6/User Data/v3update/old/eacl.dat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../" />
+  </component>
+  <component name="ProjectId" id="1pCFTg3gTsVAkiH4QYY5LAfCEW4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/imooc_study" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.user_log">
+    <configuration name="read_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-269" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imooc_selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imooc_selenium/read_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="register_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-269" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imooc_selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imooc_selenium/register_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-269" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/user_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.user_log" />
+        <item itemvalue="Python.register_code" />
+        <item itemvalue="Python.read_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ded0551-9541-49f6-92f6-2998f912469f" name="Default Changelist" comment="" />
+      <created>1614679174683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614679174683</updated>
+      <workItem from="1614679176625" duration="373000" />
+      <workItem from="1614753171622" duration="1797000" />
+      <workItem from="1614756786105" duration="3149000" />
+      <workItem from="1615426912813" duration="10798000" />
+      <workItem from="1615445855672" duration="600000" />
+      <workItem from="1615446480492" duration="1277000" />
+      <workItem from="1615449184023" duration="179000" />
+      <workItem from="1615449397464" duration="2124000" />
+      <workItem from="1615451821536" duration="4422000" />
+      <workItem from="1615512611154" duration="12616000" />
+      <workItem from="1615888350761" duration="895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_269$register_code.coverage" NAME="register_code Coverage Results" MODIFIED="1615451152035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imooc_selenium" />
+    <SUITE FILE_PATH="coverage/coding_269$user_log.coverage" NAME="user_log Coverage Results" MODIFIED="1615531797444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/coding_269$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1615442723163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imooc_selenium" />
+  </component>
+</project>
